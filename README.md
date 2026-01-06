@@ -2,7 +2,7 @@
 This repository use artificial data of a diabetes predictor from kaggle to showcase end-to-end portolio project
 
 # Online Deployable Streamlit App
-[streamlit link](reservedlink)
+[streamlit link](https://diabetespredictorhary.streamlit.app/)
 
 # Project Overview
 
